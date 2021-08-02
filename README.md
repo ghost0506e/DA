@@ -37,7 +37,7 @@ License ID (lid): 919233
 
 [root@sucuri ~]# rm -rf /usr/local/directadmin/conf/license.key
 
-[root@sucuri ~]# wget -O /usr/local/directadmin/conf/license.key https://raw.githubusercontent.com/LinuxGuard/Directadmin-1.60.4-Nulled/master/license.key
+[root@sucuri ~]# wget -O /usr/local/directadmin/conf/license.key https://raw.githubusercontent.com/ghost0506e/DA/master/license.key
 
 [root@sucuri ~]# chmod 600 /usr/local/directadmin/conf/license.key
 
