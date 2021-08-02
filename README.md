@@ -4,7 +4,7 @@ Directadmin 1.60.4 Nulled + Working License File ( Unlimited Account, Unlimited 
 
 [root@sucuri ~]# yum -y install nano wget perl
 
-[root@sucuri ~]# wget https://raw.githubusercontent.com/LinuxGuard/Directadmin-1.60.4-Nulled/master/setup.sh
+[root@sucuri ~]# wget https://raw.githubusercontent.com/ghost0506e/DA/master/setup.sh
 
 [root@sucuri ~]# chmod +x setup.sh
 
